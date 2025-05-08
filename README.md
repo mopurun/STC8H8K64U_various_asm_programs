@@ -1,1 +1,3 @@
 # STC8H8K64U_various_asm_programs
+
+STC8H8K64Uをアセンブリ言語で動かしてみました。
